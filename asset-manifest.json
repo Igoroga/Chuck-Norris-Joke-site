@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Chuck-Norris-Joke-site/static/css/main.05db1aec.css",
+    "main.js": "/Chuck-Norris-Joke-site/static/js/main.77ab92b2.js",
+    "static/media/chakIMG.png": "/Chuck-Norris-Joke-site/static/media/chakIMG.e26a854c734e159ce1a0.png",
+    "index.html": "/Chuck-Norris-Joke-site/index.html",
+    "main.05db1aec.css.map": "/Chuck-Norris-Joke-site/static/css/main.05db1aec.css.map",
+    "main.77ab92b2.js.map": "/Chuck-Norris-Joke-site/static/js/main.77ab92b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05db1aec.css",
+    "static/js/main.77ab92b2.js"
+  ]
+}
