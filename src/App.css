@@ -1,0 +1,10 @@
+.loader{
+    width: 100%;
+  max-width: 410px;
+  font-weight: bold;
+  height:70px;
+  position: relative;
+  top: -80px;
+  padding-right: 17px;
+  padding-left: 17px;
+}
