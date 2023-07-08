@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+https://igoroga.github.io/Chuck-Norris-Joke-site/ - Сайт
+
 test - React, Redux toolkit, API. + mobile version
 
 - Есть Апи которое умеет получать шутки Чака Нориса - https://api.chucknorris.io/
